@@ -6,6 +6,10 @@ A modern Flutter application for discovering and exploring movies and TV shows. 
 
 ### 🎥 Movies Section
 
+
+https://github.com/user-attachments/assets/3bdf4efa-4183-49d7-a0f4-4159f671b70b
+
+
 - **Now Playing Movies**: Carousel slider showing currently playing movies with auto-play functionality
 - **Popular Movies**: Horizontal scrollable list of trending movies
 - **Top Rated Movies**: Display of highest-rated movies
