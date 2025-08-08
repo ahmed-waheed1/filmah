@@ -140,14 +140,13 @@ flutter build ios --release
 
 ### 🎥 Movies Section
 <div align="center">
-  <img src="screenshots/popular_movies.png" alt="Popular Movies" width="250"/>
+  <img src="screenshots/movies_section.png" alt="Popular Movies" width="250"/>
 </div>
 
 *Main movies screen featuring now playing carousel, popular movies, and top rated sections*
 
 ### 🎬 Movie Details & Browse
 <div align="center">
-    <img src="screenshots/movies_section.png" alt="Movies Section" width="250"/>
   <img src="screenshots/movie_details.png" alt="Movie Details" width="250"/>
     <img src="screenshots/popular_movies_list.png" alt="Popular Movies List" width="250"/>
     <img src="screenshots/top_rated_movies_list.png" alt="Top Rated Movies List" width="250"/>
